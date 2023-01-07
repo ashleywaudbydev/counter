@@ -28,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+
+![Web capture_7-1-2023_203837_](https://user-images.githubusercontent.com/84845712/211169529-f288ce00-cddc-48fb-b58c-b41f3773b3ae.jpeg)
 
 
 
@@ -37,7 +38,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://00awaudby.github.io/counter/)
 
 ## My process
 
