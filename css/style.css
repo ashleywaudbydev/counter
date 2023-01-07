@@ -1,0 +1,59 @@
+/*----------GLOBAL STYLES----------*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/*----------INNER-COUNTER----------*/
+.counter-inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+/*----------ADD AND MINUS BUTTONS----------*/
+button, span{
+    padding: 0.5rem;
+}
+button{
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+.increase, .decrease{
+    color: green;
+    background: white;
+    border: 2px solid #444;
+    border-radius: 3px;
+}
+.decrease{
+    color: red;
+}
+
+/*----------NUMBER INPUT----------*/
+span{
+    font-size: 4rem;
+    width: 60%;
+    text-align: center;
+    padding:0;
+}
+.correct{
+    color: green;
+    border: 2px solid green;
+}
+.error{
+    color: red;
+    border: 2px solid red;
+}
