@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
+# Counter Project 
 
 This is a Counter , the general ide is to take that value up on a button click and also go down on another click ,whilst also changing some classes to modify styles.
 
