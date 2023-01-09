@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://00awaudby.github.io/counter/)
+- Live Site URL:(https://00awaudby.github.io/counter/)
 
 ## My process
 
