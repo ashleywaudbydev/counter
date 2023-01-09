@@ -5,12 +5,19 @@ This is a Counter , the general ide is to take that value up on a button click a
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+
+- [The challenge](#the-challenge)
+  
+- [Screenshot](#screenshot)
+  
+- [Links](#links)
+  
 - [My process](#my-process)
-  - [Built with](#built-with)
+
+- [Built with](#built-with)
+  
 - [Author](#author)
+
 - [Acknowledgments](#acknowledgments)
 
 
@@ -56,6 +63,9 @@ Users should be able to:
 ## Author
 
 ASHLEY WAUDBY
+
+- Github - [00awaudby]https://github.com/00awaudby
+- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
 
 
 
