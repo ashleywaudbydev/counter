@@ -35,15 +35,9 @@ Users should be able to:
 
 ### Screenshot
 
-
 ![Web capture_7-1-2023_203837_](https://user-images.githubusercontent.com/84845712/211169529-f288ce00-cddc-48fb-b58c-b41f3773b3ae.jpeg)
 
-
-
-
-
 ### Links
-
 
 - Live Site URL:(https://ashleywaudbydev.github.io/counter/)
 
@@ -61,8 +55,8 @@ Users should be able to:
 
 ASHLEY WAUDBY
 
-- Github - [00awaudby]https://github.com/00awaudby
-- Frontend Mentor - [@00awaudby] https://www.frontendmentor.io/home
+- Portfolio - [ashleywaudbydev](https://ashleywaudbydev.github.io/Portfolio/)
+- Frontend Mentor - [@00awaudby](https://www.frontendmentor.io/profile/00awaudby)
 
 
 
